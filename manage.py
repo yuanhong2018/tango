@@ -4,7 +4,7 @@ import sys
 
 print(9999999999)
 
-
+print("这只是一个测试")
 
 print(987654321)
 if __name__ == "__main__":
