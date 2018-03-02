@@ -4,6 +4,8 @@ import sys
 
 print(1111111111111111)
 
+print(88888888888888888)
+
 print(123456789)
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "tango.settings")
